@@ -1,6 +1,6 @@
-# CakeScheduler
+# Cake-Scheduler
 
-**CakeScheduler** é um aplicativo desenvolvido em **Vitejs** para cadastro e agendamento de bolos.  A plataforma permite que funcionários cadastrem bolos com diversos recheios e métodos de pagamento, enquanto os clientes podem fazer pedidos de maneira fácil e intuitiva.
+**Cake-Scheduler** é um aplicativo desenvolvido em **Vitejs** para cadastro e agendamento de bolos. A plataforma permite que funcionários cadastrem bolos com diversos recheios e métodos de pagamento, enquanto os clientes podem fazer pedidos de maneira fácil e intuitiva.
 
 ## Tecnologias Utilizadas
 
