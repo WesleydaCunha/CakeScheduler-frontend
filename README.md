@@ -1,6 +1,6 @@
 # Cake-Scheduler
 
-**Cake-Scheduler** é um aplicativo desenvolvido em **Vitejs** para cadastro e agendamento de bolos. A plataforma permite que funcionários cadastrem bolos com diversos recheios e métodos de pagamento, enquanto os clientes podem fazer pedidos de maneira fácil e intuitiva.
+**Cake-Scheduler** é um aplicativo desenvolvido em **Vitejs** e **Java Spring** para cadastro e agendamento de bolos. A plataforma permite que funcionários cadastrem bolos com diversos recheios e métodos de pagamento, enquanto os clientes podem fazer pedidos de maneira fácil e intuitiva.
 
 ## Tecnologias Utilizadas
 
@@ -48,7 +48,7 @@
 
 5. Configure as variáveis de ambiente:
 
-   Renomei o arquivo `.env.exemple`  na raiz do projeto para `.env` com as seguintes variáveis:
+   Renomeie o arquivo `.env.exemple`  na raiz do projeto para `.env` com as seguintes variáveis:
 
    ```bash
    VITE_AZURE_STORAGE_SAS_TOKEN_COMPLEMENT=your_sas_token_for_complements_here
@@ -82,4 +82,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Este README serve como um ponto de partida e pode ser ajustado conforme o desenvolvimento do projeto progrida.
+
