@@ -42,7 +42,7 @@
    npm install
    ```
 3. Configure o Back-end:
-   - Acesse e configure o back-end `https://github.com/WesleydaCunha/CakeScheduler-backend`
+   - Acesse e configure o [Back-end](https://github.com/WesleydaCunha/CakeScheduler-backend)
    
 
 
